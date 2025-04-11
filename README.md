@@ -4,7 +4,8 @@
 ---
 
 📷 **Pictures from inside the app:**  
-![Photo Graphy-v6](https://github.com/user-attachments/assets/e50678f0-a4fb-485f-8b16-0878963fb4a8)
+![Photo Graphy2](https://github.com/user-attachments/assets/5b41ab6e-4a8e-4911-9c95-465d5121e381)
+
 
 
 ---
