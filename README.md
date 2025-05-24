@@ -132,8 +132,8 @@ By using GitHelper GUI, you agree to the following terms:
 | Real-Time File Tracking  | ✅                       | ✅ (With Staged/Unstaged) |
 | Batch Staging            | ✅                       | ✅ (Improved UI)         |
 | Commit History Viewer    | ✅                       | ✅ (Search, Sort, Revert)|
-| Advanced Search & Filter | ✅                       | ✅ (More Options)        |
-| GPG Signing Support      | ✅                       | ✅ (Bypass Option)       |
+| Advanced Search & Filter | ❌                       | ✅ (More Options)        |
+| GPG Signing Support      | ❌                       | ✅ (Bypass Option)       |
 | Multi-Repository Support | ❌                       | ❌ (Planned)             |
 | Commit Edit/Delete       | ❌                       | ✅                       |
 | Documentation Viewer     | ❌                       | ✅                       |
