@@ -1,4 +1,4 @@
-# GitHelper GUI – Version 6x (Ultimate Edition) 🚀  
+# GitHelper GUI – Version 7x (Ultimate Edition) 🚀  
 **A powerful, secure, and user-friendly GUI tool for managing GitHub repositories with advanced features and unparalleled performance!**  
 
 ---
@@ -17,7 +17,7 @@ GitHelper GUI is a modern, secure, and efficient tool designed to simplify Git o
 
 ---
 
-## 🚀 **New Features in Version 6x**  
+## 🚀 **New Features in Version 7x**  
 - ⚡ **Blazing Fast Performance:** Optimized Git operations with multi-threading for up to **10x faster** execution.  
 - 🎨 **Modern UI Design:** Sleek dark-themed interface with improved responsiveness and accessibility.  
 - 📂 **Enhanced Repository Management:** Real-time repository tracking with folder selection via GUI or manual input.  
@@ -124,9 +124,9 @@ By using GitHelper GUI, you agree to the following terms:
 
 ---
 
-# **Comparison Between Old Version  and Version 6x 🚀**  
+# **Comparison Between Old Version  and Version 7x 🚀**  
 
-| Feature                  | Old Version 🌱           | Version 6x 💎        |
+| Feature                  | Old Version 🌱           | Version 7x 💎        |
 |--------------------------|--------------------------|--------------------------|
 | Basic Git Operations     | ✅ (Add, Commit, Push)   | ✅ (Enhanced Features)   |
 | Real-Time File Tracking  | ✅                       | ✅ (With Staged/Unstaged) |
