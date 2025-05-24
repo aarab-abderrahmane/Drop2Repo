@@ -154,7 +154,7 @@ Feel free to **report issues**, **suggest improvements**, or **contribute** to t
 ---
 
 **Get the latest version here:**  
-<a href="https://github.com/aarab-abderrahmane/python/releases/tag/6" target="_blank">Click Here</a>  
+<a href="https://github.com/aarab-abderrahmane/GitHelper/releases" target="_blank">Click Here</a>  
 
 ---
 
