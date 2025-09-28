@@ -22,7 +22,7 @@ Drop2Repo is a state-of-the-art tool designed to streamline Git operations for d
 
 ## 🚀 **New Features in Version 8.0.1**  
 - ⚡ **Enhanced Performance:** Optimized multi-threaded Git operations for lightning-fast execution.  
-- 🎨 **Modernized UI Design:** Dark-themed interface with a cohesive color palette (`#131212`, `#0A0909`), larger window (925x525), and rounded corners for a comfortable, clutter-free experience.  
+- 🎨 **Modernized UI Design:** Dark-themed interface, larger window (925x525), and rounded corners for a comfortable, clutter-free experience.  
 - 🖼 **Updated Icons:** New, larger icons (e.g., `send_icon.ico`, `history.png`, `image_start.jpg`) for a contemporary and intuitive look.  
 - 📂 **Path History Feature:** Save and reuse repository paths with a dedicated `Path History` page, reducing repetitive navigation.  
 - 📌 **Real-Time File Tracking:** Live updates for staged and unstaged files with improved visualization.  
@@ -35,7 +35,7 @@ Drop2Repo is a state-of-the-art tool designed to streamline Git operations for d
 - 📜 **Built-In Documentation Viewer:** Access app documentation via an integrated PDF viewer.  
 - 📧 **Integrated Email Support:** Send feedback or inquiries directly via Gmail.  
 - ⚙ **Customizable Settings:** Toggle features like GPG bypass, commit deletion, and advanced tools.  
-- 🌐 **Multi-Language Foundation:** Ready for future multi-language support.  
+
 
 ---
 
@@ -68,7 +68,7 @@ By using Drop2Repo, you agree to the following:
 ## 🖥 **User Interface Walkthrough**
 
 ### 1️⃣ **Splash Screen**  
-- 📜 Animated terms of use with a modern typing effect and darker background (`#1B1B19`).  
+- 📜 Animated terms of use with a modern typing effect and darker background .  
 - ✅ Accept terms to proceed, with acceptance saved locally.  
 - 🔗 Links to detailed terms on GitHub.  
 
@@ -76,7 +76,7 @@ By using Drop2Repo, you agree to the following:
 - 📝 Prompts for GitHub email and username if not configured.  
 - ✉ Validates email format before saving.  
 - 💾 Stores credentials securely using Git’s global config.  
-- 🖼 Enhanced with modern images (`image_start.jpg`, `mouse.jpg`, `crown.jpg`, `lamp.jpg`) for a polished look.  
+- 🖼 Enhanced with modern images. 
 - 🔄 Auto-switches to the main interface if credentials are set.  
 
 ### 3️⃣ **Git Push Interface**  
