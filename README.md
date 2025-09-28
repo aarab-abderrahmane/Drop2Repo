@@ -1,168 +1,229 @@
-# GitHelper GUI – Version 7x (Ultimate Edition) 🚀  
-**A powerful, secure, and user-friendly GUI tool for managing GitHub repositories with advanced features and unparalleled performance!**  
+Drop2Repo – Version 8.0.1 (Ultimate Edition) 🚀
+A sleek, secure, and powerful GUI tool for managing GitHub repositories with a modernized interface and cutting-edge features!
 
----
+📷 Pictures from inside the app:
 
-📷 **Pictures from inside the app:**  
-![Photo Graphy2](https://github.com/user-attachments/assets/5b41ab6e-4a8e-4911-9c95-465d5121e381)
+✅ Drop2Repo - Detailed Explanation
+📌 Overview
+Drop2Repo is a state-of-the-art tool designed to streamline Git operations for developers of all levels. With its modern, eye-friendly interface, intuitive controls, and advanced features, managing GitHub repositories has never been easier. Version 8.0.1 introduces a revamped design, modern icons, and a new path history feature, making it the ultimate companion for Git workflows.
+
+🚀 New Features in Version 8.0.1
+
+⚡ Enhanced Performance: Optimized multi-threaded Git operations for lightning-fast execution.  
+🎨 Modernized UI Design: Dark-themed interface with a cohesive color palette (#131212, #0A0909), larger window (925x525), and rounded corners for a comfortable, clutter-free experience.  
+🖼 Updated Icons: New, larger icons (e.g., send_icon.ico, history.png, image_start.jpg) for a contemporary and intuitive look.  
+📂 Path History Feature: Save and reuse repository paths with a dedicated Path History page, reducing repetitive navigation.  
+📌 Real-Time File Tracking: Live updates for staged and unstaged files with improved visualization.  
+✨ Batch Staging & Committing: Stage and commit multiple files effortlessly, with clear staged file indicators.  
+🔄 Optimized Push & Pull: Faster, more reliable operations with detailed output and robust error handling.  
+🔐 Secure Authentication: Enhanced credential validation and secure storage via Git’s global configuration.  
+🛠 Advanced Commit Tools: Edit, delete, or revert commits with safeguards for pushed commits.  
+📝 Last Commit Message Reuse: Auto-fill commit messages with the last used message for efficiency.  
+🔍 Interactive Commit History: Search, filter, sort, and manage commits in a dynamic table.  
+📜 Built-In Documentation Viewer: Access app documentation via an integrated PDF viewer.  
+📧 Integrated Email Support: Send feedback or inquiries directly via Gmail.  
+⚙ Customizable Settings: Toggle features like GPG bypass, commit deletion, and advanced tools.  
+🌐 Multi-Language Foundation: Ready for future multi-language support.
+
+
+🛠 Requirements
+💻 System Requirements
+
+🖥 Operating System: Windows (cross-platform support planned for future updates).  
+🛠 Git: Git must be installed (Recommended version: 2.47.1 or higher).  
+📚 Core Libraries:  
+customtkinter: 5.2.2  
+Pillow: 10.4.0
 
 
 
----
 
-# ✅ **GitHelper GUI - Detailed Explanation**  
+🛡 Security Assurance
 
-## 📌 **Overview**  
-GitHelper GUI is a modern, secure, and efficient tool designed to simplify Git operations for both beginners and advanced users. With its intuitive interface and powerful features, you can manage your GitHub repositories effortlessly. Version 6.0.0 introduces significant enhancements in usability, performance, and functionality, making it the ultimate Git management companion.
+🔒 No Harmful Content: Drop2Repo is free of malware, viruses, or harmful code.  
+🔐 Secure Credential Handling: Git credentials are stored securely using Git’s global configuration.  
+🛑 No Unauthorized Access: The app only accesses repositories and settings with explicit user permission.  
+📁 SQLite Security: User preferences and paths are stored locally in secure SQLite databases (modifs.db, app_settings.db).
 
----
 
-## 🚀 **New Features in Version 7x**  
-- ⚡ **Blazing Fast Performance:** Optimized Git operations with multi-threading for up to **10x faster** execution.  
-- 🎨 **Modern UI Design:** Sleek dark-themed interface with improved responsiveness and accessibility.  
-- 📂 **Enhanced Repository Management:** Real-time repository tracking with folder selection via GUI or manual input.  
-- 📌 **Real-Time File Tracking:** Automatically detects and displays modified files with live updates.  
-- ✨ **Batch Staging & Committing:** Stage and commit multiple files with a single click, including staged file visualization.  
-- 🔄 **Optimized Push & Pull Mechanism:** Faster, more reliable Git operations with detailed pull output and error handling.  
-- 🔐 **Secure Authentication Handling:** Enhanced Git credential verification and secure storage.  
-- 🛠 **Advanced Commit Tools:** Edit or delete the last commit, with safeguards for pushed commits.  
-- 📝 **Last Commit Message Reuse:** Option to auto-fill the commit message field with the last used message.  
-- 🔍 **Advanced Commit History Viewer:** Search, filter, sort, delete, or revert commits with an interactive table.  
-- 📜 **Documentation Viewer:** Built-in PDF viewer for app documentation.  
-- 📧 **Integrated Email Support:** Send feedback or inquiries directly from the app via Gmail.  
-- ⚙ **Customizable Settings:** Toggle advanced features like GPG bypass and commit deletion tools.  
-- 🌐 **Multi-Language Support:** Foundation laid for future multi-language expansion.  
+📜 Terms of Use
+By using Drop2Repo, you agree to the following:  
 
----
+⚫ Personal Use Only: Drop2Repo is for personal use only. Commercial use, redistribution, or modification without explicit permission is prohibited.  
+⚫ User Responsibility: You are responsible for all actions (e.g., commits, pushes, pulls) performed using this tool. The developer is not liable for data loss or repository issues.  
+⚫ No Data Collection: No personal data is collected beyond Git credentials and local settings, all stored locally.  
+⚫ Free Usage: The app is free for personal use. Premium features may be introduced in future updates.  
+⚫ No Warranty: Provided "as is" without warranties. The developer does not guarantee compatibility or error-free operation.  
+⚫ GitHub Compliance: Use must comply with GitHub’s terms of service and applicable laws.  
+⚫ Termination: The developer may restrict access for misuse or violation of terms.
 
-## 🛠 **Requirements**  
-### 💻 **System Requirements**  
-- 🖥 **Operating System:** Windows (with potential cross-platform support in future updates).  
-- 🛠 **Git:** Git must be installed on your system (Preferred version: 2.47.1 or higher).  
-! Version of the core libraries used in this app (customtkinter : 5.2.2 | Pillow : 10.4.0)
----
 
-## 🛡 **Security Assurance**  
-- 🔒 **No Harmful Content:** GitHelper GUI is completely safe, free of malware, viruses, or harmful code.  
-- 🔐 **Secure Credential Handling:** Git credentials are stored securely using Git’s global configuration.  
-- 🛑 **No Unauthorized Access:** The app only accesses Git repositories and settings with explicit user permission.  
-- 📁 **SQLite Security:** User preferences are stored locally in a secure SQLite database.  
+🖥 User Interface Walkthrough
+1️⃣ Splash Screen
 
----
+📜 Animated terms of use with a modern typing effect and darker background (#1B1B19).  
+✅ Accept terms to proceed, with acceptance saved locally.  
+🔗 Links to detailed terms on GitHub.
 
-## 📜 **Terms of Use**  
-By using GitHelper GUI, you agree to the following terms:  
-- ⚫ **Personal Use Only:** GitHelper GUI is intended for personal use only. Any commercial use, redistribution, or modification of the application without explicit written permission from the developer is strictly prohibited.  
-- ⚫ **User Responsibility:** You are solely responsible for all actions performed using this tool, including but not limited to staging, committing, pushing, pulling, and deleting commits from your GitHub repositories. The developer is not liable for any data loss, repository corruption, or unintended consequences resulting from the use of this application.  
-- ⚫ **No Data Collection:** GitHelper GUI does not collect, store, or transmit any personal data beyond what is necessary for its operation (e.g., Git credentials and local settings). All data remains stored locally on your device and is not shared with any third parties.  
-- ⚫ **Free Usage:** The application is provided free of charge for personal use. Optional premium features may be introduced in future updates, which could involve additional terms or costs.  
-- ⚫ **No Warranty:** GitHelper GUI is provided "as is" without any warranties, express or implied. The developer does not guarantee uninterrupted operation, compatibility with all systems, or the absence of errors.  
-- ⚫ **Compliance with GitHub Policies:** You agree to use GitHelper GUI in compliance with GitHub’s terms of service and any applicable laws. Any misuse of the tool to violate these policies is your responsibility.  
-- ⚫ **Termination:** The developer reserves the right to terminate or restrict access to the application at any time, particularly in cases of misuse or violation of these terms.  
+2️⃣ Registration Window
 
----
+📝 Prompts for GitHub email and username if not configured.  
+✉ Validates email format before saving.  
+💾 Stores credentials securely using Git’s global config.  
+🖼 Enhanced with modern images (image_start.jpg, mouse.jpg, crown.jpg, lamp.jpg) for a polished look.  
+🔄 Auto-switches to the main interface if credentials are set.
 
-## 🖥 **User Interface Walkthrough**  
+3️⃣ Git Push Interface
 
-### 1️⃣ **Splash Screen**  
-- 📜 Displays terms of use with an animated typing effect.  
-- ✅ Accept terms to proceed; acceptance is saved locally for future sessions.  
-- 🔗 Links to detailed terms on GitHub.  
+📂 Repository Selection: Choose repositories via file explorer, manual entry, or new path history feature.  
+🔍 Live File Tracking: Displays staged/unstaged files with real-time updates and clearer visuals.  
+✅ Batch Operations: Stage, commit, and push multiple files with a streamlined interface.  
+✍ Commit Tools: Edit/delete last commit or reuse messages.  
+🚀 Push to GitHub: Optimized with progress bars and error handling.  
+🔄 Pull Changes: Detailed pull output in a separate window.  
+📜 Path History: Access saved repository paths for quick selection.  
+⚙ Settings Access: Customize GPG signing, commit reuse, and advanced tools.  
+📧 Help Option: Send emails to the developer directly.
 
-### 2️⃣ **Registration Window**  
-- 📝 Prompts for GitHub email and username if not already configured.  
-- ✉ Validates email format before saving.  
-- 💾 Securely stores credentials using Git’s global config.  
-- 🔄 Auto-switches to the main interface if credentials are pre-configured.  
+4️⃣ Commit History Viewer
 
-### 3️⃣ **Git Push Interface**  
-- 📂 **Repository Selection:** Choose a Git repository via file explorer or manual path entry.  
-- 🔍 **Live File Tracking:** Displays staged and unstaged files with real-time updates.  
-- ✅ **Batch Operations:** Select multiple files for staging, committing, and pushing.  
-- ✍ **Commit Tools:** Edit or delete the last commit, with options to reuse messages.  
-- 🚀 **Push to GitHub:** Optimized push with progress bar and error handling.  
-- 🔄 **Pull Changes:** Pull from remote with detailed output in a separate window.  
-- ⚙ **Settings Access:** Customize GPG signing, commit message reuse, and advanced tools visibility.  
-- 📧 **Help Option:** Compose and send emails directly to the developer.  
+📊 Interactive Table: Displays commit hash, author, date, message, and status (pushed/unpushed).  
+🔍 Search & Sort: Filter by text or sort by date/message length.  
+🛠 Commit Management: Delete unpushed commits (double-click) or revert (right-click).  
+⚠ Safety Checks: Prevents deletion of pushed commits.
 
-### 4️⃣ **Commit History Viewer**  
-- 📊 **Interactive Table:** View commit hash, author, date, message, and status (pushed/unpushed).  
-- 🔍 **Search & Sort:** Filter by text or sort by date/message length.  
-- 🛠 **Commit Management:** Double-click to delete unpushed commits; right-click to revert to a commit.  
-- ⚠ **Safety Checks:** Prevents deletion of pushed commits.  
+5️⃣ Documentation Viewer
 
-### 5️⃣ **Documentation Viewer**  
-- 📜 Displays app documentation in a built-in PDF viewer.  
-- 🔙 Easy navigation back to the main interface.  
+📜 Built-in PDF viewer for app documentation.  
+🔙 Easy navigation back to the main interface.
 
----
+6️⃣ Path History Page
 
-## ⚠ **Error Handling**  
-- ❌ **Git Not Installed:** Exits with a clear error message prompting Git installation.  
-- ❗ **No Repository Selected:** Prompts user to select a valid Git repository.  
-- 🚫 **No Commit Message:** Warns if the commit message is empty.  
-- 🛑 **Invalid Repository:** Prevents actions on non-Git directories.  
-- 🔐 **GPG Errors:** Option to bypass GPG signing with user notification.  
-- 🔄 **Pull/Push Failures:** Displays detailed error messages with actionable feedback.  
+📂 Displays saved repository paths in a scrollable list with checkboxes.  
+✅ Select a path to auto-fill the main interface’s folder entry.  
+🔙 Return to the main interface with one click.
 
----
 
-## 📝 **Notes**  
-- ✅ Ensure Git is installed and configured correctly before running.  
-- 🔐 GPG signing is optional and can be bypassed via settings.  
-- 📁 SQLite database (`modifs.db` and `app_settings.db`) stores preferences and settings locally.  
-- ⚙ Advanced tools (e.g., commit deletion) are toggleable for a streamlined experience.  
+⚠ Error Handling
 
----
+❌ Git Not Installed: Exits with a prompt to install Git.  
+❗ No Repository Selected: Prompts for a valid Git repository.  
+🚫 No Commit Message: Warns if the commit message is empty.  
+🛑 Invalid Repository: Prevents actions on non-Git directories.  
+🔐 GPG Errors: Option to bypass GPG signing with clear notifications.  
+🔄 Pull/Push Failures: Detailed error messages with actionable feedback.
 
-## 🔮 **Future Enhancements**  
-- 🔄 **Multi-Repository Support:** Manage multiple repositories in one session.  
-- 🌿 **Branch Management:** Create, switch, and merge branches interactively.  
-- 🔑 **OAuth & SSH Support:** Add alternative authentication methods.  
-- 📊 **Performance Dashboard:** Display metrics for Git operations.  
-- 🌐 **Full Multi-Language Support:** Expand language options for global accessibility.  
 
----
+📝 Notes
 
-# **Comparison Between Old Version  and Version 7x 🚀**  
+✅ Ensure Git is installed and configured before running.  
+🔐 GPG signing is optional and toggleable.  
+📁 SQLite databases (modifs.db, app_settings.db) store settings and paths locally.  
+⚙ Advanced tools (e.g., commit deletion, path history) are toggleable for a tailored experience.
 
-| Feature                  | Old Version 🌱           | Version 7x 💎        |
-|--------------------------|--------------------------|--------------------------|
-| Basic Git Operations     | ✅ (Add, Commit, Push)   | ✅ (Enhanced Features)   |
-| Real-Time File Tracking  | ✅                       | ✅ (With Staged/Unstaged) |
-| Batch Staging            | ✅                       | ✅ (Improved UI)         |
-| Commit History Viewer    | ✅                       | ✅ (Search, Sort, Revert)|
-| Advanced Search & Filter | ❌                       | ✅ (More Options)        |
-| GPG Signing Support      | ❌                       | ✅ (Bypass Option)       |
-| Multi-Repository Support | ❌                       | ❌ (Planned)             |
-| Commit Edit/Delete       | ❌                       | ✅                       |
-| Documentation Viewer     | ❌                       | ✅                       |
-| Email Support            | ❌                       | ✅                       |
-| Customizable Settings    | ❌                       | ✅                       |
 
----
+🔮 Future Enhancements
 
-## 👤 **Author**  
-Developed by **@aarab-abderrahmane**  
-📩 **Contact:** [abderrahmanerb.contact@gmail.com](mailto:abderrahmanerb.contact@gmail.com)  
+🔄 Multi-Repository Support: Manage multiple repositories simultaneously.  
+🌿 Branch Management: Create, switch, and merge branches interactively.  
+🔑 OAuth & SSH Support: Expand authentication options.  
+📊 Performance Dashboard: Visualize Git operation metrics.  
+🌐 Full Multi-Language Support: Add global language options.
 
----
 
-📢 **Feedback & Contributions:**  
-Feel free to **report issues**, **suggest improvements**, or **contribute** to this project on GitHub! 🎉  
+Comparison Between Version 7.1.1 and Version 8.0.1 🚀
 
----
 
-**Get the latest version here:**  
-<a href="https://github.com/aarab-abderrahmane/GitHelper/releases" target="_blank">Click Here</a>  
 
----
+Feature
+Version 7.1.1 🌱
+Version 8.0.1 💎
 
-### **Why Choose GitHelper GUI?**  
-- 🚀 **Fast & Efficient:** Multi-threaded operations for maximum speed.  
-- 🔒 **Secure & Safe:** No harmful content or unauthorized access.  
-- 🎨 **User-Friendly:** Modern UI with intuitive controls and advanced tools.  
 
----
 
-**GitHelper GUI – Your Ultimate Git Companion!** 🚀  
+Basic Git Operations
+✅ (Add, Commit, Push)
+✅ (Enhanced Features)
+
+
+Real-Time File Tracking
+✅
+✅ (Improved Visuals)
+
+
+Batch Staging
+✅
+✅ (Streamlined UI)
+
+
+Commit History Viewer
+✅
+✅ (Search, Sort, Revert)
+
+
+Advanced Search & Filter
+✅
+✅ (More Options)
+
+
+GPG Signing Support
+✅
+✅ (Bypass Option)
+
+
+Multi-Repository Support
+❌
+❌ (Planned)
+
+
+Commit Edit/Delete
+✅
+✅
+
+
+Documentation Viewer
+✅
+✅
+
+
+Email Support
+✅
+✅
+
+
+Customizable Settings
+✅
+✅
+
+
+Path History Feature
+❌
+✅
+
+
+Modernized UI Design
+✅ (Basic Dark Theme)
+✅ (Enhanced Aesthetics)
+
+
+Updated Icons
+✅
+✅ (Larger, Modern)
+
+
+
+👤 Author
+Developed by @aarab-abderrahmane📩 Contact: abderrahmanerb.contact@gmail.com  
+
+📢 Feedback & Contributions:We welcome issue reports, suggestions, or contributions on GitHub! 🎉  
+
+Get the latest version here:Click Here  
+
+Why Choose Drop2Repo?
+
+🚀 Fast & Efficient: Multi-threaded operations for top performance.  
+🔒 Secure & Safe: No harmful content or unauthorized access.  
+🎨 User-Friendly: Modern UI with intuitive controls, updated icons, and new path history feature.
+
+
+Drop2Repo – Your Ultimate Git Companion! 🚀
