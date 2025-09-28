@@ -38,10 +38,6 @@ Drop2Repo is a state-of-the-art tool designed to streamline Git operations for d
 ### 💻 **System Requirements**  
 - 🖥 **Operating System:** Windows (cross-platform support planned for future updates).  
 - 🛠 **Git:** Git must be installed (Recommended version: 2.47.1 or higher).  
-- 📚 **Core Libraries:**  
-  - `customtkinter`: 5.2.2  
-  - `Pillow`: 10.4.0  
-
 ---
 
 ## 🛡 **Security Assurance**  
@@ -133,16 +129,16 @@ By using Drop2Repo, you agree to the following:
 
 ---
 
-# **Comparison Between Version 7.1.1 and Version 8.0.1 🚀**
+# **Comparison Between Old Versions and Version 8.0.1 🚀**
 
-| Feature                  | Version 7.1.1 🌱        | Version 8.0.1 💎        |
+| Feature                  | Old Versions 🌱        | Version 8.0.1 💎        |
 |--------------------------|--------------------------|--------------------------|
-| Basic Git Operations     | ✅ (Add, Commit, Push)   | ✅ (Enhanced Features)   |
-| Real-Time File Tracking  | ✅                       | ✅ (Improved Visuals)    |
-| Batch Staging            | ✅                       | ✅ (Streamlined UI)      |
+| Basic Git Operations     | ✅ (Add, Push)           | ✅ (Enhanced Features)   |
+| Real-Time File Tracking  | ❌                       | ✅ (Improved Visuals)    |
+| Batch Staging            | ❌                       | ✅ (Streamlined UI)      |
 | Commit History Viewer    | ✅                       | ✅ (Search, Sort, Revert)|
-| Advanced Search & Filter | ✅                       | ✅ (More Options)        |
-| GPG Signing Support      | ✅                       | ✅ (Bypass Option)       |
+| Advanced Search & Filter | ❌                       | ✅ (More Options)        |
+| GPG Signing Support      | ❌                       | ✅ (Bypass Option)       |
 | Multi-Repository Support | ❌                       | ❌ (Planned)             |
 | Commit Edit/Delete       | ✅                       | ✅                       |
 | Documentation Viewer     | ✅                       | ✅                       |
@@ -150,7 +146,7 @@ By using Drop2Repo, you agree to the following:
 | Customizable Settings    | ✅                       | ✅                       |
 | Path History Feature     | ❌                       | ✅                       |
 | Modernized UI Design     | ✅ (Basic Dark Theme)    | ✅ (Enhanced Aesthetics) |
-| Updated Icons            | ✅                       | ✅ (Larger, Modern)      |
+| Updated Icons            | ❌                       | ✅ (Larger, Modern)      |
 
 ---
 
