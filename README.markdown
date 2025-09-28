@@ -4,6 +4,8 @@
 ---
 
 📷 **Pictures from inside the app:**  
+<img width="921" height="549" alt="image" src="https://github.com/user-attachments/assets/76161472-ffd2-4858-8626-b211468f231a" />
+
 <img width="1365" height="724" alt="app-2" src="https://github.com/user-attachments/assets/94ae12bd-e4ba-49bc-9a9c-46c66d27fb77" />
 ### Now you can control the length and width of the page 
 <img width="1366" height="724" alt="app-3" src="https://github.com/user-attachments/assets/5ba1bdc8-fea7-40bb-a5e9-e65093364ed9" />
