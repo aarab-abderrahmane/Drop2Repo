@@ -4,7 +4,7 @@
 ---
 
 📷 **Pictures from inside the app:**  
-<img width="1365" height="724" alt="app-2" src="https://github.com/user-attachments/assets/83911d4b-6f3f-4fa1-8781-93ba5e156d0a" />
+<img width="900" height="424" alt="app-2" src="https://github.com/user-attachments/assets/83911d4b-6f3f-4fa1-8781-93ba5e156d0a" />
 
 
 ---
