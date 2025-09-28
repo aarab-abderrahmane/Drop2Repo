@@ -23,7 +23,7 @@ Drop2Repo is a state-of-the-art tool designed to streamline Git operations for d
 ## 🚀 **New Features in Version 8.0.1**  
 - ⚡ **Enhanced Performance:** Optimized multi-threaded Git operations for lightning-fast execution.  
 - 🎨 **Modernized UI Design:** Dark-themed interface, larger window (925x525), and rounded corners for a comfortable, clutter-free experience.  
-- 🖼 **Updated Icons:** New, larger icons (e.g., `send_icon.ico`, `history.png`, `image_start.jpg`) for a contemporary and intuitive look.  
+- 🖼 **Updated Icons:** New, larger icons for a contemporary and intuitive look.  
 - 📂 **Path History Feature:** Save and reuse repository paths with a dedicated `Path History` page, reducing repetitive navigation.  
 - 📌 **Real-Time File Tracking:** Live updates for staged and unstaged files with improved visualization.  
 - ✨ **Batch Staging & Committing:** Stage and commit multiple files effortlessly, with clear staged file indicators.  
