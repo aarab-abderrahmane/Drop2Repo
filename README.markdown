@@ -81,17 +81,10 @@ Drop2Repo is a state-of-the-art desktop application designed to streamline Git o
 ## 💻 System Requirements
 
 ### Minimum Requirements
-- **Operating System:** Windows 10/11 (cross-platform support planned)
+- **Operating System:** Windows 10/11 (cross-platform support planned) or Linux , MacOs
 - **Git Version:** 2.47.1 or higher (required)
 - **Memory:** 4GB RAM minimum
-- **Storage:** 100MB free disk space
-- **Display:** 1024x768 minimum resolution
 
-### Recommended Requirements
-- **Operating System:** Windows 11
-- **Git Version:** Latest stable release
-- **Memory:** 8GB RAM or higher
-- **Display:** 1920x1080 or higher resolution
 
 ---
 
